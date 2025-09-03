@@ -1,8 +1,8 @@
-# 👋 Bonjour, je suis Alisson Kyriakidis, Data Analyst
+# 👋 Bonjour, je suis Allisson Kyriakidis, Data Analyst
 
-Data Analyst chez **Decathlon Digital**, où j'allie **rigueur technique et sens business** sur des projets de pricing à fort enjeu.
+Data Analyst chez **Decathlon Digital**, où j'allie **rigueur technique et sens business** sur des projets de pricing et d'industrialisation de pipelines de données avec dbt.
 
-Après une reconversion réussie depuis le secteur bancaire, je suis passionnée par la construction de pipelines de données, la création de dashboards interactifs et l'application de modèles de machine learning pour transformer les données brutes en décisions stratégiques.
+Ma force réside dans ma capacité à couvrir l'ensemble du cycle de vie de la donnée : de sa transformation à sa **visualisation interactive**, jusqu'au **data storytelling** pour vulgariser des analyses complexes auprès des décisionnaires.
 
 ---
 
@@ -10,7 +10,7 @@ Après une reconversion réussie depuis le secteur bancaire, je suis passionnée
 
 | **Data Visualisation & Reporting** | **Développement & Analyse** | **Data Engineering & Pipeline** | **Outils & Méthodologies** |
 | :---: | :---: | :---: | :---: |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1200px-New_Power_BI_Logo.svg.png" alt="Power BI" width="40" height="40"/> <img src="PHOTO-2025-09-03-15-03-05.jpg" alt="Tableau" width="80" /> <img src="https://seaborn.pydata.org/_images/logo-wide-lightbg.svg" alt="Seaborn" width="80" /> <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.svg" alt="Streamlit" width="80" /> | **Python** (Pandas, NumPy, Scikit-learn) <br/> **SQL** <br/> **PySpark** | **dbt** <br/> **Airflow** <br/> *(principes appliqués sur des projets personnels)* | **Git / GitHub** <br/> **Confluence / Jira** <br/> **Méthodologie Agile** |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1200px-New_Power_BI_Logo.svg.png" alt="Power BI" width="40" height="40"/> <img src="PHOTO-2025-09-03-15-03-05.jpg" alt="Tableau" width="80" /> <img src="https://seaborn.pydata.org/_images/logo-wide-lightbg.svg" alt="Seaborn" width="80" /> <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.svg" alt="Streamlit" width="80" /> | **Python** (Pandas, NumPy, Scikit-learn) <br/> **SQL** <br/> **PySpark** | <img src="https://www.databricks.com/wp-content/uploads/2022/07/databricks-logo-flame-1.svg" alt="Databricks" width="80" /> <br/> **dbt** <br/> **Airflow** <br/> **APIs** | **Git / GitHub** <br/> **Confluence / Jira** <br/> **Méthodologie Agile** |
 
 ---
 
