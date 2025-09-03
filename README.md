@@ -10,7 +10,7 @@ Ma force réside dans ma capacité à couvrir l'ensemble du cycle de vie de la d
 
 | Data Visualisation & Reporting | Développement & Analyse | Data Engineering & Pipeline | Outils & Méthodologies |
 | :--- | :--- | :--- | :--- |
-| • Tableau <br/> • Power BI <br/> • Streamlit <br/> • Seaborn | • Python (Pandas, NumPy, Scikit-learn) <br/> • SQL <br/> • PySpark | • Databricks <br/> • dbt <br/> • Airflow <br/> • APIs | • GitHub <br/> • Jira <br/> • Confluence <br/> • Méthodologie Agile |
+| • Tableau <br/> • Power BI <br/> • Streamlit <br/> • Seaborn <br/> • Matplotlib <br/> • Plotly | • Python (Pandas, NumPy, Scikit-learn) <br/> • SQL <br/> • PySpark <br/> • Databricks <br/> • VS Code <br/> • Git/Github | • dbt <br/> • Airflow <br/> • APIs <br/> • AWS | • Confluence <br/> • Jira <br/> • Méthodologie Agile |
 
 ### 🚀 Mes Projets Vitrines
 
