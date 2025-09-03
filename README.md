@@ -24,7 +24,7 @@ Ma force réside dans ma capacité à couvrir l'ensemble du cycle de vie de la d
 
 ### 📫 Me Contacter
 
--   **LinkedIn :** [linkedin.com/in/alisson-kyriakidis]([www.linkedin.com/in/alisson-kyriakidis-91969814a](https://www.linkedin.com/in/alisson-kyriakidis-91969814a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B3tOMd54ARpmJgHAqSMzwbg%3D%3D))
+-   **LinkedIn :** [linkedin.com/in/alisson-kyriakidis](www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=alisson-kyriakidis-91969814a)
 -   **Email :** [alisson.kyriakidis@gmail.com](mailto:alisson.kyriakidis@gmail.com)
 
 <!--
