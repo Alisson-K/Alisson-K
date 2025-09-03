@@ -1,4 +1,4 @@
-# 👋 Bonjour, je suis Allisson Kyriakidis, Data Analyst
+# 👋 Bonjour, je suis Alisson Kyriakidis, Data Analyst
 
 Data Analyst chez **Decathlon Digital**, où j'allie **rigueur technique et sens business** sur des projets de pricing et d'industrialisation de pipelines de données avec dbt.
 
