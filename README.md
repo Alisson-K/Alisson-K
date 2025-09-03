@@ -8,10 +8,9 @@ Ma force réside dans ma capacité à couvrir l'ensemble du cycle de vie de la d
 
 ### 🛠️ Mon Écosystème Technique
 
-| **Data Visualisation & Reporting** | **Développement & Analyse** | **Data Engineering & Pipeline** | **Outils & Méthodologies** |
-| :---: | :---: | :---: | :---: |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1200px-New_Power_BI_Logo.svg.png" alt="Power BI" width="40" height="40"/> <img src="PHOTO-2025-09-03-15-03-05.jpg" alt="Tableau" width="80" /> <img src="https://seaborn.pydata.org/_images/logo-wide-lightbg.svg" alt="Seaborn" width="80" /> <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.svg" alt="Streamlit" width="80" /> | **Python** (Pandas, NumPy, Scikit-learn) <br/> **SQL** <br/> **PySpark** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/databricks/databricks-original.svg" alt="Databricks" width="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbt/dbt-original.svg" alt="dbt" width="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" alt="Airflow" width="60" /> <br/> **APIs** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atlassian/atlassian-original.svg" alt="Confluence / Jira" width="40" height="40"/> <br/> **Méthodologie Agile** |
----
+| Data Visualisation & Reporting | Développement & Analyse | Data Engineering & Pipeline | Outils & Méthodologies |
+| :--- | :--- | :--- | :--- |
+| • Tableau <br/> • Power BI <br/> • Streamlit <br/> • Seaborn | • Python (Pandas, NumPy, Scikit-learn) <br/> • SQL <br/> • PySpark | • Databricks <br/> • dbt <br/> • Airflow <br/> • APIs | • GitHub <br/> • Jira <br/> • Confluence <br/> • Méthodologie Agile |
 
 ### 🚀 Mes Projets Vitrines
 
