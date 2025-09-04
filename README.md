@@ -15,7 +15,7 @@ Ma force réside dans ma capacité à couvrir l'ensemble du cycle de vie de la d
 ### 🚀 Mes Projets Vitrines
 
 -   **Analyse et Prédiction des Interventions (London Fire Brigade)** : Projet de Data Science complet, du nettoyage des données à l'optimisation d'un modèle de Machine Learning (LightGBM) pour prédire les temps de réponse. **london-fire-brigade-analysis :** [lien vers le projet](https://github.com/Alisson-K/london-fire-brigade-analysis)
--   **Simulation d'un Pipeline de Données avec dbt** : Un projet démontrant ma capacité à structurer et transformer des données brutes en tables d'analyse propres, prêtes à l'emploi. **dbt-challenge :** [lien vers le projet](https://github.com/Alisson-K/dbt-challenge.git)
+-   **Simulation d'un Pipeline de Données avec dbt** : Un projet démontrant ma capacité à structurer et transformer des données brutes en tables d'analyse propres, prêtes à l'emploi. **dbt-ecommerce-pipeline :** [lien vers le projet](https://github.com/Alisson-K/dbt-challenge.git)
 
 
 ---
