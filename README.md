@@ -18,7 +18,7 @@ Ma force réside dans ma capacité à couvrir l'ensemble du cycle de vie de la d
 
 -   **Dashboard Interactif de Performance des Ventes** : Une application web (Streamlit) pour explorer dynamiquement des données de ventes, inspirée de mes travaux sur Tableau chez Decathlon.
 -   **Analyse Prédictive sur le Comportement Client** : Un projet de machine learning de bout-en-bout, de l'analyse exploratoire au déploiement d'un modèle simple pour prédire un KPI client.
--   **Simulation d'un Pipeline de Données avec dbt** : Un projet démontrant ma capacité à structurer et transformer des données brutes en tables d'analyse propres, prêtes à l'emploi.
+-   **Simulation d'un Pipeline de Données avec dbt** : Un projet démontrant ma capacité à structurer et transformer des données brutes en tables d'analyse propres, prêtes à l'emploi. **dbt-challenge :** [lien vers le projet](https://github.com/Alisson-K/dbt-challenge.git)
 
 ---
 
